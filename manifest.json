@@ -1,0 +1,14 @@
+{
+    "name" : "Hemant's Jokes",
+    "version" : "0.0.1",
+    "manifest_version" : 2,
+    "browser_action" : {
+        "default_popup" : "popup.html",
+        "default_icon" : "logo.png"
+    },
+    "icons" : {
+        "256" : "logo.png"
+    },
+    "permissions" : ["activeTab"],
+    "description" : "It's a simple extension for give you little smile during your work :)"
+}
